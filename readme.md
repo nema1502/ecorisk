@@ -1,10 +1,10 @@
-# EcoRisk AI v2.0
+# EcoRisk
 
 **Tu consultor IA para un futuro sostenible y rentable.**
 
 EcoRisk AI es una aplicación web interactiva diseñada para ayudar a las empresas a analizar y comprender sus riesgos ESG (Ambientales, Sociales y de Gobernanza). Simplemente cargando un archivo Excel con datos clave, la herramienta genera un diagnóstico completo, compara el rendimiento de la empresa con los promedios del sector y utiliza un modelo de lenguaje avanzado (IA) para ofrecer un análisis detallado y un plan de acción priorizado.
 
-![Demo de EcoRisk AI](https://i.imgur.com/example.gif) ## ✨ Características Principales
+## ✨ Características Principales
 
 * **Análisis Automatizado:** Carga un archivo Excel y la aplicación calculará automáticamente los niveles de riesgo financiero y ambiental.
 * **Dashboard Interactivo:** Visualiza los riesgos de tu empresa a través de un dashboard claro y fácil de entender, con indicadores de color.
